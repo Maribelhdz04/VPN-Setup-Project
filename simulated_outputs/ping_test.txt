@@ -1,0 +1,5 @@
+PING 192.168.1.2 (client) from 192.168.1.1 (server): 56 data bytes
+64 bytes from 192.168.1.2: icmp_seq=1 ttl=64 time=0.053 ms
+64 bytes from 192.168.1.2: icmp_seq=2 ttl=64 time=0.062 ms
+64 bytes from 192.168.1.2: icmp_seq=3 ttl=64 time=0.071 ms
+
