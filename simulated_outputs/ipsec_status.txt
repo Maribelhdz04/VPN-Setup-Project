@@ -1,0 +1,5 @@
+Status of IPsec VPN:
+Security Associations (2 up, 0 connecting):
+  conn1[1]: ESTABLISHED 5 seconds ago, 192.168.1.1[server]...192.168.1.2[client]
+  conn2[2]: ESTABLISHED 10 seconds ago, 192.168.1.1[server]...192.168.1.3[client]
+
